@@ -15,7 +15,6 @@
 * run `npm run test` to run unit tests and watch for changes
 ***
 ***
-***
 > # changelog | 1.1
 > 
 > # global
@@ -64,6 +63,5 @@
 > - success message displayed when updating topics is shown a second time whenever the user reloads the page
 > - if a success banner is created after an error banner, the success banner is red instead of green
 > - failed file upload in certain cases would throw 500 error instead of the expected 406 error
-> ***
 > ***
 > ***
