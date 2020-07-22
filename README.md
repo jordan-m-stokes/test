@@ -13,8 +13,9 @@
 ## development
 * run `npm run dev` to run server and watch for changes
 * run `npm run test` to run unit tests and watch for changes
-***
-***
+
+> ***
+> ***
 > # changelog | 1.1
 > 
 > # global
